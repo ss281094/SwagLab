@@ -1,0 +1,6 @@
+[32mINFO    [0m Test_Login:test_Add_to_cart.py:16 Testcase test_login_002 is started
+[32mINFO    [0m Test_Login:test_Add_to_cart.py:17 Opening browser
+[32mINFO    [0m Test_Login:test_Add_to_cart.py:20 Entering Username
+[32mINFO    [0m Test_Login:test_Add_to_cart.py:22 Entering password :
+[32mINFO    [0m Test_Login:test_Add_to_cart.py:24 Clicking in login button :
+[32mINFO    [0m Test_Login:test_Add_to_cart.py:63 Clicking on logout button

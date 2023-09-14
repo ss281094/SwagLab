@@ -1,0 +1,16 @@
+[32mINFO    [0m Test_Login:test_Add_to_cart.py:16 Testcase test_login_002 is started
+[32mINFO    [0m Test_Login:test_Add_to_cart.py:17 Opening browser
+[32mINFO    [0m Test_Login:test_Add_to_cart.py:20 Entering Username
+[32mINFO    [0m Test_Login:test_Add_to_cart.py:22 Entering password :
+[32mINFO    [0m Test_Login:test_Add_to_cart.py:24 Clicking in login button :
+[32mINFO    [0m Test_Login:test_Add_to_cart.py:28 click on add cart
+[32mINFO    [0m Test_Login:test_Add_to_cart.py:32 click on shop button
+[32mINFO    [0m Test_Login:test_Add_to_cart.py:35 click on checkout
+[32mINFO    [0m Test_Login:test_Add_to_cart.py:38 Enter FirstName
+[32mINFO    [0m Test_Login:test_Add_to_cart.py:41 Enter LastName
+[32mINFO    [0m Test_Login:test_Add_to_cart.py:44 Enter Zip
+[32mINFO    [0m Test_Login:test_Add_to_cart.py:47 click on continue
+[32mINFO    [0m Test_Login:test_Add_to_cart.py:50 click on finish
+[32mINFO    [0m Test_Login:test_Add_to_cart.py:53 showing success message
+[32mINFO    [0m Test_Login:test_Add_to_cart.py:61 click on menu button
+[32mINFO    [0m Test_Login:test_Add_to_cart.py:65 Clicking on logout button
